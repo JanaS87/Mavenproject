@@ -14,4 +14,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <dependencies>
+        <dependency>
+                <groupId>com.github.lalyos</groupId>
+                <artifactId>jfiglet</artifactId>
+                <version>0.0.9</version>
+        </dependency>
+    </dependencies>
+
 </project>
